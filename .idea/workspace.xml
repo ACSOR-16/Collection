@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c403238b-fce8-4d7a-99c3-bac45029d77a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/oscar/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/oscar/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/oscar/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/oscar/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/oscar/Example5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +49,7 @@
       <recent name="br.com.oscar.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example7">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example3" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.oscar.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example8">
     <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example4" />
       <module name="Collections" />
@@ -119,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example8" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.oscar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example8" />
         <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
