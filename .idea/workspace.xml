@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c403238b-fce8-4d7a-99c3-bac45029d77a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/oscar/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Course.java" afterDir="false" />
     </list>
@@ -52,20 +51,7 @@
       <recent name="br.com.oscar.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example15">
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example10" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.oscar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example16">
     <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example11" />
       <module name="Collections" />
@@ -118,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example16" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.oscar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example16" />
         <item itemvalue="Application.Example15" />
         <item itemvalue="Application.Example14" />
         <item itemvalue="Application.Example13" />
         <item itemvalue="Application.Example11" />
-        <item itemvalue="Application.Example10" />
       </list>
     </recent_temporary>
   </component>

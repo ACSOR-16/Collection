@@ -7,6 +7,7 @@ public class Course implements Comparable<Course>{
     private int time;
     private List<Classroom> classroomList = new ArrayList<>();
     private Collection<Student> students = new HashSet<>();
+//    private Collection<Student> students = new LinkedHashSet<>();
 
     public Course(String name, int time) {
         this.name = name;
