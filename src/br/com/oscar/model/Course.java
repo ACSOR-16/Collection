@@ -1,13 +1,12 @@
 package br.com.oscar.model;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class Course implements Comparable<Course>{
     private  String name;
     private int time;
     private List<Classroom> classroomList = new ArrayList<>();
+    private Collection<Student> students = new HashSet<>();
 
     public Course(String name, int time) {
         this.name = name;
@@ -47,6 +46,18 @@ public class Course implements Comparable<Course>{
 
     public void addClassroom(Classroom clas) {
         this.classroomList.add(clas);
+    }
+
+    public void addStudent(Student student) {
+        this.students.add(student);
+    }
+
+    public boolean checkStudent(Student student) {
+        return this.students.contains(student);
+    }
+
+    public Collection<Student> getStudents() {
+        return students;
     }
 
     @Override

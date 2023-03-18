@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c403238b-fce8-4d7a-99c3-bac45029d77a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/oscar/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/oscar/model/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="br.com.oscar.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example13">
+  <component name="RunManager" selected="Application.Example15">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example10" />
       <module name="Collections" />
@@ -91,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example8" />
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example14" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example9" />
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.oscar.Example15" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example15" />
+        <item itemvalue="Application.Example14" />
         <item itemvalue="Application.Example13" />
         <item itemvalue="Application.Example11" />
         <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example8" />
       </list>
     </recent_temporary>
   </component>
