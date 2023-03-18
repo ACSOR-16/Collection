@@ -1,8 +1,8 @@
 package br.com.oscar;
 
+import br.com.oscar.model.Course;
+
 import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class Example4 {
     public static void main(String[] args) {
